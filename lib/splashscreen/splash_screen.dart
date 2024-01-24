@@ -31,7 +31,7 @@ class _SplashScreenState extends State<SplashScreen> {
               height: 10,
             ),
             const Text(
-              'MOBIGIC',
+              'MOBIGIC TECH',
               style: TextStyle(
                   color: Colors.blue,
                   fontWeight: FontWeight.w600,
